@@ -8,6 +8,7 @@ Start by finding the pattern if we perform the second operation after performing
 + aba -> aa -> a
 + ba -> b
 + a
+
 Notice that if we perform the second operations on two strings with same first element, the larger string will cover all the strings covered by the smaller. Hence only the strings formed by unique char are counted = the length of the sub-sequence.
 <br>
 
