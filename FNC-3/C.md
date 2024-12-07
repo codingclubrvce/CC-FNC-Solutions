@@ -5,6 +5,7 @@
 Greedly select the coin whose total amount is maximum i.e. a<sub>i</sub> * b<sub>i</sub> is maximum.
 
 ## Code
+
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
