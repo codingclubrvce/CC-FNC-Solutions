@@ -2,7 +2,7 @@
 [F-TWINGFT](https://www.codechef.com/problems/TWINGFT?tab=submissions)
 
 ## Solution
-Implementation sed, just calculate the sum of the alternate elements and make sure to add the last element to the twin who goes second. Return the maximum of the two twins as the answer.
+Implementation based, just calculate the sum of the alternate elements and make sure to add the last element to the twin who goes second. Return the maximum of the two twins as the answer.
 
 ## Code
 ```cpp
