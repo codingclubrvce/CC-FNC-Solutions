@@ -2,7 +2,7 @@
 [D - Digital Logarithm](https://codeforces.com/contest/1728/problem/C)
 
 ## Solution
-There is no need to perform operation if an element is present in bot A and B. If it is present in only one, it has to be decreased to an element present in B or one element each from A and B should be reduced to 1 (the min possible).
+There is no need to perform operation if an element is present in both A and B. If it is present in only one, it has to be decreased to an element present in B or one element each from A and B should be reduced to 1 (the min possible).
 
 ## Code
 ```cpp
